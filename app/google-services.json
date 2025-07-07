@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "360852041356",
+    "firebase_url": "https://memofirebase-e03dc-default-rtdb.firebaseio.com",
+    "project_id": "memofirebase-e03dc",
+    "storage_bucket": "memofirebase-e03dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360852041356:android:da473ebf905e7621ac95a9",
+        "android_client_info": {
+          "package_name": "deu.cpt.p20192161"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICJnOmufIZi9Q8rnEwexG8Ts1XV9wx9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
